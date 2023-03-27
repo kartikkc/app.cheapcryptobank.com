@@ -18,7 +18,7 @@
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-scripts": "^3.4.4",
-    "typescript": "3.5.3",
+    "typescript": "3.9.10",
     "unfetch": "^4.2.0",
     "yup": "^0.27.0"
   },
